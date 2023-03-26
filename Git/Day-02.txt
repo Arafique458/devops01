@@ -1,3 +1,7 @@
 90DaysOfDevOps Challenge
 We are here to make history.
-This is day 09 / 90 
+This is day 09 / 90
+
+Making New Change from the Terminal
+I will push this change to the repository on the Github as task suggests.
+ 
